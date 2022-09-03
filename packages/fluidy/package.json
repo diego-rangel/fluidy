@@ -1,0 +1,10 @@
+{
+  "name": "fluidy",
+  "version": "0.0.0",
+  "description": "Style once, run anywhere",
+  "main": "./src/index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@fluidy/core": "*"
+  }
+}

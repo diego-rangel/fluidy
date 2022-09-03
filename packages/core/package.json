@@ -1,0 +1,6 @@
+{
+  "name": "@fluidy/core",
+  "version": "0.0.0",
+  "main": "./src/index.ts",
+  "license": "MIT"
+}
